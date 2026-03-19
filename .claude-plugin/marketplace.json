@@ -1,0 +1,19 @@
+{
+  "name": "ai-plugin-marketplace",
+  "owner": {
+    "name": "John Gully",
+    "email": "john@gully.us"
+  },
+  "plugins": [
+    {
+      "name": "auto-eng",
+      "source": "./plugins/auto-eng",
+      "description": "Automatic coding using agents, skill, and ralph loops"
+    },
+    {
+      "name": "career-search",
+      "source": "./plugins/career-search",
+      "description": "Assists with connections, conversations, opportunities and interview preparation"
+    }
+  ]
+}

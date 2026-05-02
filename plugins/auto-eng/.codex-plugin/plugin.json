@@ -1,0 +1,6 @@
+{
+  "name": "auto-eng",
+  "version": "0.1.0",
+  "description": "Automatic engineering using agents, skills, and ralph loops",
+  "skills": "./skills/"
+}

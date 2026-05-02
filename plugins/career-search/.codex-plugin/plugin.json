@@ -1,0 +1,6 @@
+{
+  "name": "career-search",
+  "version": "0.1.0",
+  "description": "Assists with connections, conversations, opportunities and interview preparation",
+  "skills": "./skills/"
+}
